@@ -1,4 +1,4 @@
-# Hi, I'm Raviteja 👋
+# Hi, I'm Aaila Raviteja 👋
 
 I’m interested in data analytics and Python projects. I work with SQL, Python, Power BI, OpenCV, and NumPy.
 
