@@ -4,7 +4,7 @@ I’m interested in data analytics and Python projects. I work with SQL, Python,
 
 ## Projects
 
-### E-commerce Customer Intelligence Platform
+### [E-commerce Customer Intelligence Platform](https://github.com/Raviteja32232/ecommerce-customer-intelligence)
 **SQL · Python · Power BI**
 
 I cleaned and analyzed e-commerce customer data using SQL and Python. I created Power BI reports to present the findings.
