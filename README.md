@@ -1,28 +1,28 @@
 # Hi, I'm Raviteja 👋
 
-I build projects that turn data into insights and apply computer vision to real-world problems. My work spans **SQL, Python, Power BI, OpenCV, and NumPy**.
+I’m interested in data analytics and Python projects. I work with SQL, Python, Power BI, OpenCV, and NumPy.
 
-## Featured Projects
+## Projects
 
 ### E-commerce Customer Intelligence Platform
 **SQL · Python · Power BI**
 
-Organized and analyzed e-commerce customer data, then presented findings in Power BI reports to support data-informed business decisions.
+I cleaned and analyzed e-commerce customer data using SQL and Python. I created Power BI reports to present the findings.
 
 ### Zepto Monthly Sales Analysis
 **Power BI**
 
-Explored monthly sales performance to identify customer behavior and operational trends. Built interactive dashboards to summarize key metrics and insights.
+I analyzed monthly sales data to look for customer and sales trends. I built interactive Power BI dashboards to show the main metrics.
 
 ### Drowsiness Detection System
 **Python · OpenCV · NumPy**
 
-Built a real-time driver drowsiness detection system using eye movement and the eye aspect ratio (EAR). Added audio alerts and evaluated system behavior across lighting conditions and camera angles.
+I built a real-time system to detect driver drowsiness from eye movements. I used the eye aspect ratio (EAR) and added audio alerts. I also checked how it worked in different lighting conditions and camera angles.
 
-## Tools & Technologies
+## Skills
 
-- **Data analysis:** SQL, Python, NumPy
-- **Data visualization:** Power BI
-- **Computer vision:** OpenCV, eye aspect ratio (EAR)
+- SQL and Python for data analysis
+- Power BI dashboards
+- OpenCV and NumPy
 
-I’m continuing to develop these projects and add their source code and documentation here.
+Thanks for visiting my profile!
